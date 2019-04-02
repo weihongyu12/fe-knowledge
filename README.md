@@ -21,10 +21,10 @@
 | CSS 2.x & 3.x | ★★★★★ | 必备技能 |
 | JavaScript | ★★★★★ | 必备技能 |
 | ES6 | ★★★★★ |  |
-| Sass/Less/stylus | ★★★★ |  |
-| jQuery/Zepto | ★★ | 
+| Sass/Less/stylus | ★★★★ | CSS预处理器，熟悉一个或多个 |
+| jQuery/Zepto | ★★ | |
 | React/Vue/Angular | ★★★★ | 至少熟悉其中一个全家桶 |
-| TypeScript | ★★ |  |
+| TypeScript | ★★★ | 强类型的JavaScript |
 
 
 ## 基础理论
